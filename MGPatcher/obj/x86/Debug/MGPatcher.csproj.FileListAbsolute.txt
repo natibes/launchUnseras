@@ -1,0 +1,55 @@
+E:\Test\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.csprojResolveAssemblyReference.cache
+E:\Test\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.PatcherWindow.resources
+E:\Test\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.Properties.Resources.resources
+E:\Test\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.csproj.GenerateResource.Cache
+E:\Test\MGPatcher\MGPatcher\bin\Debug\MGPatcher.exe
+E:\Test\MGPatcher\MGPatcher\bin\Debug\MGPatcher.pdb
+E:\Test\MGPatcher\MGPatcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Test\MGPatcher\MGPatcher\bin\Debug\RsyncNet.dll
+E:\Test\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.exe
+E:\Test\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.pdb
+E:\Test\MGPatcher\MGPatcher\bin\Debug\MGPatcher.exe.config
+E:\Test\MGPatcher\MGPatcher\bin\Debug\MegaAPI.dll
+E:\Test\MGPatcher\MGPatcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\bin\Debug\MGPatcher.exe.config
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.exe
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.pdb
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\bin\Debug\MGPatcher.exe
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\bin\Debug\MGPatcher.pdb
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\bin\Debug\MegaAPI.dll
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.PatcherWindow.resources
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.Properties.Resources.resources
+C:\Users\Михаил\Desktop\MGPatcher\MGPatcher\obj\x86\Debug\MGPatcher.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\bin\Debug\MGPatcher.exe.config
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\obj\x86\Debug\MGPatcher.exe
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\obj\x86\Debug\MGPatcher.pdb
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\obj\x86\Debug\MGPatcher.PatcherWindow.resources
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\obj\x86\Debug\MGPatcher.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\obj\x86\Debug\MGPatcher.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\bin\Debug\MGPatcher.exe
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\bin\Debug\MGPatcher.pdb
+C:\Users\Михаил\Desktop\Новая папка (25)\MGPatcher\obj\x86\Debug\MGPatcher.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\MGPatcher\bin\Debug\MGPatcher.exe.config
+C:\Users\Михаил\Desktop\MGPatcher\obj\x86\Debug\MGPatcher.exe
+C:\Users\Михаил\Desktop\MGPatcher\obj\x86\Debug\MGPatcher.pdb
+C:\Users\Михаил\Desktop\MGPatcher\bin\Debug\MGPatcher.exe
+C:\Users\Михаил\Desktop\MGPatcher\bin\Debug\MGPatcher.pdb
+C:\Users\Михаил\Desktop\MGPatcher\obj\x86\Debug\MGPatcher.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\MGPatcher\obj\x86\Debug\MGPatcher.PatcherWindow.resources
+C:\Users\Михаил\Desktop\MGPatcher\obj\x86\Debug\MGPatcher.Properties.Resources.resources
+C:\Users\Михаил\Desktop\MGPatcher\obj\x86\Debug\MGPatcher.csproj.GenerateResource.Cache
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\bin\Debug\MGPatcher.exe.config
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.exe
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.pdb
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\bin\Debug\MGPatcher.exe
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\bin\Debug\MGPatcher.pdb
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.csprojResolveAssemblyReference.cache
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.PatcherWindow.resources
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.Properties.Resources.resources
+D:\updater\Assets\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.csproj.GenerateResource.Cache
+C:\Users\gianni\Desktop\PATCHER\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\bin\Debug\MGPatcher.exe.config
+C:\Users\gianni\Desktop\PATCHER\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.exe
+C:\Users\gianni\Desktop\PATCHER\MGPatcherTools\MGPatcherToolsVisualStudio\MGPatcher\obj\x86\Debug\MGPatcher.pdb

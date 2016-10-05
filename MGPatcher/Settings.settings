@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MGPatcher" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DirectUpdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GameName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UnchartedSeas</Value>
+    </Setting>
+    <Setting Name="StartPatchFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Uncharted_</Value>
+    </Setting>
+    <Setting Name="FormatPatchName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.patch</Value>
+    </Setting>
+    <Setting Name="PatchesUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://unseas.com/update/x86</Value>
+    </Setting>
+    <Setting Name="VersionUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://unseas.com/update/x64/vers</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
